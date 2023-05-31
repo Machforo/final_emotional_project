@@ -7,3 +7,5 @@ The flask_site file contains the source code from which we have created the soft
 The index.html and ack.html are the respective html files for the softare.
 
 The archive.zip contains the dataset used( contains both train and test dataset)
+
+The following is the link to the dataset :https://drive.google.com/file/d/1jZLQuVt7oPKnynLiQUAeGO7p3YXboYtf/view?usp=sharing
